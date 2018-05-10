@@ -1,4 +1,5 @@
 MySQL liquibase sample project
+------------------------------
 
 docker-compose up -d
 
