@@ -1,5 +1,5 @@
 databaseChangeLog:
   - include:
-      file: sample.sql
+      file: src/main/resources/db/sample.sql
   - include:
-      file: sample_insert.sql
+      file: src/main/resources/db/sample_insert.sql
