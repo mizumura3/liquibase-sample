@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: sample.sql
+  - include:
+      file: sample_insert.sql
